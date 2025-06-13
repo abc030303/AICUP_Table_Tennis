@@ -14,3 +14,9 @@
 - [joblib](https://joblib.readthedocs.io/)
 
 
+## Installation
+
+Install all packages with:
+
+```bash
+pip install -r requirements.txt
