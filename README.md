@@ -20,3 +20,11 @@ Install all packages with:
 
 ```bash
 pip install -r requirements.txt
+
+
+## Usage
+
+Run the training script with:
+
+```bash
+python train_XGBoost.py
